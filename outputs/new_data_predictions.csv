@@ -1,0 +1,9 @@
+id,text,champion_version,champion_hf_model,champion_pred,champion_confidence,challenger_version,challenger_pred,challenger_confidence
+1,The new lab server setup at MSRIT was surprisingly fast and effortless to configure.,v1,distilbert-base-uncased-finetuned-sst-2-english,POSITIVE,0.994,v2,POSITIVE,0.9988
+2,"I waited two hours for tech support, only for the application to crash again immediately.",v1,distilbert-base-uncased-finetuned-sst-2-english,NEGATIVE,0.9993,v2,NEGATIVE,0.9995
+3,"Although the opening lecture felt slow, the hands-on MLOps demo made everything click.",v1,distilbert-base-uncased-finetuned-sst-2-english,POSITIVE,0.9959,v2,POSITIVE,0.9988
+4,The battery drains in three hours and the keyboard feels flimsy for the price.,v1,distilbert-base-uncased-finetuned-sst-2-english,NEGATIVE,0.9992,v2,NEGATIVE,0.9995
+5,This cafeteria masala dosa is hands down the best breakfast on campus.,v1,distilbert-base-uncased-finetuned-sst-2-english,POSITIVE,0.9955,v2,POSITIVE,0.9988
+6,"The documentation looks thorough at first glance, yet every code example throws a deprecation error.",v1,distilbert-base-uncased-finetuned-sst-2-english,NEGATIVE,0.9983,v2,NEGATIVE,0.9995
+7,Deploying models with registry aliases completely eliminated our manual config bugs.,v1,distilbert-base-uncased-finetuned-sst-2-english,NEGATIVE,0.9584,v2,POSITIVE,0.9979
+8,Not a single feature promised in the release notes actually works as advertised.,v1,distilbert-base-uncased-finetuned-sst-2-english,NEGATIVE,0.9979,v2,NEGATIVE,0.9995

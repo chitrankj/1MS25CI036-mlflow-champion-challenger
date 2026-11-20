@@ -1,0 +1,6 @@
+id,text,reference_label,model_A_pred,model_A_conf,model_B_pred,model_B_conf,comment
+6,the film tunes into a grief that could lead a man across centuries . ,POSITIVE,NEGATIVE,0.9631,POSITIVE,0.9988,Nuanced or contrasting sentiment clause where the two architectures diverge.
+18,true tale of courage -- and complicity -- at auschwitz is a harrowing drama that tries to tell of the unspeakable . ,POSITIVE,NEGATIVE,0.6913,POSITIVE,0.9984,Nuanced or contrasting sentiment clause where the two architectures diverge.
+35,i 'll bet the video game is a lot more fun than the film . ,NEGATIVE,POSITIVE,0.9977,NEGATIVE,0.9981,Nuanced or contrasting sentiment clause where the two architectures diverge.
+42,"the longer the movie goes , the worse it gets , but it 's actually pretty good in the first few minutes . ",NEGATIVE,POSITIVE,0.9996,NEGATIVE,0.9982,Nuanced or contrasting sentiment clause where the two architectures diverge.
+61,"mcconaughey 's fun to watch , the dragons are okay , not much fire in the script . ",POSITIVE,POSITIVE,0.7078,NEGATIVE,0.9979,Nuanced or contrasting sentiment clause where the two architectures diverge.
